@@ -1,4 +1,3 @@
-
 # React Leaflet Maps with Shapefile Support
 
 [![example](https://github.com/oxy86/react-leaflet-maps-shapefile/raw/main/public/app-screenshot.jpg)](#)

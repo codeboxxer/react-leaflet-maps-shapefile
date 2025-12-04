@@ -5,6 +5,7 @@ import shp from 'shpjs'
 export const ShapeFile = (props) => {
   const [ geoJSONData, setGeoJSONData ] = useState(null)
   const { data, ...geoJSONProps} = props
+  
 
   useEffect(() => {
     async function fetchData() {

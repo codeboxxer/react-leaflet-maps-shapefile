@@ -13,9 +13,6 @@ import  colorbrewer from 'colorbrewer';
 
 var iconv = require('iconv-lite');
 
-
-
-
 const MyMap = () => {
   
   // console.log(colorbrewer.schemeGroups.sequential);

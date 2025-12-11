@@ -55,8 +55,6 @@ const MyMap = () => {
     )
   }
 
-
-
   const handleFile = (e) => {
     var reader = new FileReader();
     var file = e.target.files[0];

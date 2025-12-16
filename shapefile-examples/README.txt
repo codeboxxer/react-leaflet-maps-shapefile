@@ -19,7 +19,6 @@ http://www.mappinghacks.com/data/
 The dataset was derived by Schuyler Erle from public domain sources.
 Sean Gilles did some clean up and made some enhancements.
 
-
 COLUMN		TYPE			DESCRIPTION
 
 Shape		Polygon			Country/area border as polygon(s)
